@@ -1,5 +1,5 @@
 // __tests__/lodash.test.js
-const _ = require("../lo.js");
+const _ = require("../index.js");
 
 describe("lodash recreation tests", () => {
   test("last function", () => {

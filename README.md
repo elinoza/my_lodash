@@ -1,2 +1,3 @@
 # my_lodash
-my recreation project of lodash library 
+
+My recreation project of lodash library.
