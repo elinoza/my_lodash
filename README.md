@@ -5,7 +5,7 @@ This project aims to recreate some utility functions similar to Lodash using Jav
 ## Getting Started
 
 ### Clone the repository
-```git clone <repository-url>```
+```git clone https://github.com/elinoza/my_lodash.git```
 ```cd my-lodash```
 
 ### Install dependencies
